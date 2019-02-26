@@ -10,7 +10,5 @@ class App < Sinatra::Base
     "My hometown is NYC."
   end
 
-  get
-
 
 end
